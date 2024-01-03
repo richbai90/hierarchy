@@ -1,0 +1,17 @@
+{
+  "name": "Relationship Viewer",
+  "version": "0.1.0",
+  "size": {
+    "width": 5,
+    "height": 3
+  },
+  "mapping": [
+    {
+      "dataSetId": "42322e8b-e96b-48f2-a486-d43b9d53fb4e",
+      "alias": "relationships",
+      "fields": []
+    }
+  ],
+  "fileName": "manifest.json",
+  "id": "eed8eb53-7b61-45ab-9698-56c587968411"
+}
